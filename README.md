@@ -1,1 +1,1 @@
-MyInfo
+My Contact For NFC Card
